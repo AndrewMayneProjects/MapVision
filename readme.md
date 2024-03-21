@@ -2,6 +2,10 @@
 
 This application provides a web interface for uploading images, splitting them into tiles, and analyzing each tile using OpenAI's GPT-4 with Vision capabilities. Users can specify the size of the tiles and provide a prompt for the analysis. The application also supports searching for specific terms within the analysis results.
 
+From my blog post:
+[How to use GPT-4 with Vision for Robotics and Other Applications](https://andrewmayne.com/?p=798)
+
+
 ![Demo Image](GPT-4-vision-map-demo.png)
 
 ## Features
